@@ -1,0 +1,206 @@
+2014-2-9 22:26:57 922  modulefile=C:\Users\wanglu\AppData\Local\liebao\4.5.34.6635\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2014-2-9 22:26:58 000  RunApp szPath=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,szCmd=,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2014-2-9 22:26:58 016  RunApp bRet=1
+
+2014-2-9 22:26:58 078  modulefile=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2014-2-9 22:27:01 994  RealDownloadUninstallConfigFunc start
+2014-2-9 22:27:02 088  DeleteShortcut begin!!
+2014-2-9 22:27:02 103  CreateShellLink start...
+2014-2-9 22:27:02 103  Save = 0x80070002
+2014-2-9 22:27:02 103  URLDownloadToFile start 0x0
+2014-2-9 22:27:02 103  RealDownloadUninstallConfigFunc end
+2014-2-9 22:27:02 400  ShellExecute ret=0x2a
+
+2014-2-9 22:27:02 400  DeleteShortcut end!!
+2014-2-9 22:27:02 400  StopSvr begin!!
+2014-2-9 22:27:02 400  CUninstall StopSvr bUnInstall=1
+
+2014-2-9 22:27:02 400  GetDebugPrivilege bRet=1,code=0
+
+2014-2-9 22:27:02 400  CUninstall StopSvr wstrDir = C:\Users\wanglu\AppData\Local\liebao\4.5.34.6635
+
+2014-2-9 22:27:02 400  KillProcessByPath Begin
+
+2014-2-9 22:27:02 400  KillProcessByPath path:C:\Users\wanglu\AppData\Local\liebao\4.5.34.6635\knbcenter.exe
+2014-2-9 22:27:02 415  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2014-2-9 22:27:02 415  KillProcessByPath End
+
+2014-2-9 22:27:02 415  RunApp szPath=C:\Users\wanglu\AppData\Local\liebao\4.5.34.6635\knbcenter.exe,szCmd=/uninstall,dwWaitTime=-1,bShow=0,bWaitTimeTermination=0
+
+2014-2-9 22:27:02 462  KFunction::RunApp C:\Users\wanglu\AppData\Local\liebao\4.5.34.6635\knbcenter.exe hr=0x1
+2014-2-9 22:27:02 462  StopSvr dwcode=0
+2014-2-9 22:27:02 462  StopSvr end!!
+2014-2-9 22:27:05 473  RunApp szPath=C:\Users\wanglu\AppData\Local\liebao\4.5.34.6635\Module\qqdl\Tencentdl.exe,szCmd=/uninstall,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2014-2-9 22:27:06 549  ClearBDHDFolder begin!!
+2014-2-9 22:27:06 549  ClearBDHDFolder end!!
+2014-7-1 08:44:33 126  modulefile=C:\Users\wanglu\AppData\Local\liebao\4.5.37.6944\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2014-7-1 08:44:33 188  RunApp szPath=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,szCmd=softmain.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2014-7-1 08:44:33 219  RunApp bRet=1
+
+2014-7-1 08:44:33 266  modulefile=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2014-7-1 08:44:37 899  RealDownloadUninstallConfigFunc start
+2014-7-1 08:44:37 993  URLDownloadToFile start 0x0
+2014-7-1 08:44:37 993  RealDownloadUninstallConfigFunc end
+2014-7-1 08:44:38 055  DeleteShortcut begin!!
+2014-7-1 08:44:38 055  CreateShellLink start...
+2014-7-1 08:44:38 055  Save = 0x80070002
+2014-7-1 08:44:38 071  DeleteShortcut end!!
+2014-7-1 08:44:38 071  DeleteProductFile begin!!
+2014-7-1 08:44:38 071  File C Not Exits
+2014-7-1 08:44:38 071  DeleteProductFile end!!
+2014-7-1 08:44:38 071  StopSvr begin!!
+2014-7-1 08:44:38 071  StopSvr = C:\Users\wanglu\AppData\Local\liebao\4.5.37.6944 
+
+2014-7-1 08:44:38 071  GetDebugPrivilege bRet=1,code=0
+
+2014-7-1 08:44:38 071  KillProcessByPath Begin
+
+2014-7-1 08:44:38 071  KillProcessByPath path:C:\Users\wanglu\AppData\Local\liebao\4.5.37.6944\knbcenter.exe
+2014-7-1 08:44:38 087  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2014-7-1 08:44:38 087  KillProcessByPath End
+
+2014-7-1 08:44:38 087  StopSvr dwcode=0
+2014-7-1 08:44:38 087  StopSvr end!!
+2014-7-1 08:44:38 087  RunApp szPath=C:\Users\wanglu\AppData\Local\liebao\4.5.37.6944\Module\qqdl\Tencentdl.exe,szCmd=/uninstall,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2014-7-1 08:44:38 773  ClearBDHDFolder begin!!
+2014-7-1 08:44:38 773  ClearBDHDFolder end!!
+2014-11-14 21:53:30 594  modulefile=C:\Users\wanglu\AppData\Local\liebao\4.7.53.7968\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2014-11-14 21:53:30 672  RunApp szPath=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,szCmd=softmain.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2014-11-14 21:53:30 687  RunApp bRet=1
+
+2014-11-14 21:53:30 750  modulefile=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2014-11-14 21:53:33 932  RealDownloadUninstallConfigFunc start
+2014-11-14 21:53:34 057  URLDownloadToFile start 0x0
+2014-11-14 21:53:34 057  RealDownloadUninstallConfigFunc end
+2014-11-14 21:53:34 135  DeleteShortcut begin!!
+2014-11-14 21:53:34 135  CreateShellLink start...
+2014-11-14 21:53:34 150  Save = 0x80070002
+2014-11-14 21:53:34 369  ShellExecute ret=0x2a
+
+2014-11-14 21:53:34 369  DeleteShortcut end!!
+2014-11-14 21:53:34 369  DeleteProductFile begin!!
+2014-11-14 21:53:34 369  File C Not Exits
+2014-11-14 21:53:34 369  DeleteProductFile end!!
+2014-11-14 21:53:34 369  StopSvr begin!!
+2014-11-14 21:53:34 369  StopSvr = C:\Users\wanglu\AppData\Local\liebao\4.7.53.7968 
+
+2014-11-14 21:53:34 369  GetDebugPrivilege bRet=1,code=0
+
+2014-11-14 21:53:34 369  KillProcessByPath Begin
+
+2014-11-14 21:53:34 369  KillProcessByPath path:C:\Users\wanglu\AppData\Local\liebao\4.7.53.7968\knbcenter.exe
+2014-11-14 21:53:34 384  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2014-11-14 21:53:34 384  KillProcessByPath End
+
+2014-11-14 21:53:34 384  StopSvr dwcode=0
+2014-11-14 21:53:34 384  StopSvr end!!
+2014-11-14 21:53:34 384  RunApp szPath=C:\Users\wanglu\AppData\Local\liebao\4.7.53.7968\Module\qqdl\Tencentdl.exe,szCmd=/uninstall,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2014-11-14 21:53:34 384  KFunction::RunApp CreateProcessW error:2, wait:0, show:1, path:C:\Users\wanglu\AppData\Local\liebao\4.7.53.7968\Module\qqdl\Tencentdl.exe, cmd:/uninstall
+2014-11-14 21:53:36 397  ClearBDHDFolder begin!!
+2014-11-14 21:53:36 397  ClearBDHDFolder end!!
+2015-6-22 15:38:51 158  modulefile=C:\Users\wanglu\AppData\Local\liebao\5.2.91.10096\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2015-6-22 15:38:51 253  RunApp szPath=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,szCmd=softmain.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2015-6-22 15:38:51 280  RunApp bRet=1
+
+2015-6-22 15:38:51 346  modulefile=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2015-6-22 15:38:53 434  RealDownloadUninstallConfigFunc start
+2015-6-22 15:38:53 532  URLDownloadToFile start 0x0
+2015-6-22 15:38:53 535  RealDownloadUninstallConfigFunc end
+2015-6-22 15:38:53 624  DeleteShortcut begin!!
+2015-6-22 15:38:53 625  CreateShellLink start...
+2015-6-22 15:38:53 628  Save = 0x80070002
+2015-6-22 15:38:53 643  DeleteShortcut end!!
+2015-6-22 15:38:53 666  DeleteProductFile begin!!
+2015-6-22 15:38:53 668  File C Not Exits
+2015-6-22 15:38:53 668  DeleteProductFile end!!
+2015-6-22 15:38:53 668  StopSvr begin!!
+2015-6-22 15:38:53 668  StopSvr = C:\Users\wanglu\AppData\Local\liebao\5.2.91.10096 
+
+2015-6-22 15:38:53 668  GetDebugPrivilege bRet=1,code=0
+
+2015-6-22 15:38:53 668  KillProcessByPath Begin
+
+2015-6-22 15:38:53 668  KillProcessByPath path:C:\Users\wanglu\AppData\Local\liebao\5.2.91.10096\knbcenter.exe
+2015-6-22 15:38:53 684  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2015-6-22 15:38:53 803  KillProcessByPath End
+
+2015-6-22 15:38:53 803  StopSvr dwcode=0
+2015-6-22 15:38:53 803  StopSvr end!!
+2015-6-22 15:38:54 342  ClearBDHDFolder begin!!
+2015-6-22 15:38:54 343  ClearBDHDFolder end!!
+2015-12-26 16:54:22 536  modulefile=C:\Users\wanglu\AppData\Local\liebao\5.3.108.10510\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2015-12-26 16:54:22 648  RunApp szPath=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,szCmd=softmain.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2015-12-26 16:54:22 683  RunApp bRet=1
+
+2015-12-26 16:54:22 797  modulefile=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2015-12-26 16:54:28 268  RealDownloadUninstallConfigFunc start
+2015-12-26 16:54:28 381  DeleteShortcut begin!!
+2015-12-26 16:54:28 382  CreateShellLink start...
+2015-12-26 16:54:28 390  Save = 0x80070002
+2015-12-26 16:54:28 481  URLDownloadToFile start 0x0
+2015-12-26 16:54:28 484  RealDownloadUninstallConfigFunc end
+2015-12-26 16:54:28 889  ShellExecute ret=0x2a
+
+2015-12-26 16:54:28 898  DeleteShortcut end!!
+2015-12-26 16:54:28 920  DeleteProductFile begin!!
+2015-12-26 16:54:28 923  File C Not Exits
+2015-12-26 16:54:28 923  DeleteProductFile end!!
+2015-12-26 16:54:28 923  StopSvr begin!!
+2015-12-26 16:54:28 923  StopSvr = C:\Users\wanglu\AppData\Local\liebao\5.3.108.10510 
+
+2015-12-26 16:54:28 924  GetDebugPrivilege bRet=1,code=0
+
+2015-12-26 16:54:28 926  KillProcessByPath Begin
+
+2015-12-26 16:54:28 926  KillProcessByPath path:C:\Users\wanglu\AppData\Local\liebao\5.3.108.10510\knbcenter.exe
+2015-12-26 16:54:28 957  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2015-12-26 16:54:28 967  KillProcessByPath End
+
+2015-12-26 16:54:28 970  StopSvr dwcode=0
+2015-12-26 16:54:28 970  StopSvr end!!
+2015-12-26 16:54:30 091  ClearBDHDFolder begin!!
+2015-12-26 16:54:30 093  ClearBDHDFolder end!!
+2016-9-20 18:24:35 731  modulefile=C:\Users\wanglu\AppData\Local\liebao\5.3.108.11299\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2016-9-20 18:24:35 809  RunApp szPath=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,szCmd=softmain.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2016-9-20 18:24:35 856  RunApp bRet=1
+
+2016-9-20 18:24:35 949  modulefile=C:\Users\wanglu\AppData\Local\Temp\uninst.exe,installPath=C:\Users\wanglu\AppData\Local\liebao\
+2016-9-20 18:25:01 424  RealDownloadUninstallConfigFunc start
+2016-9-20 18:25:01 518  DeleteShortcut begin!!
+2016-9-20 18:25:01 518  CreateShellLink start...
+2016-9-20 18:25:01 518  Save = 0x80070002
+2016-9-20 18:25:01 658  URLDownloadToFile start 0x0
+2016-9-20 18:25:01 674  RealDownloadUninstallConfigFunc end
+2016-9-20 18:25:01 970  ShellExecute ret=0x2a
+
+2016-9-20 18:25:01 970  CreateShellLink start...
+2016-9-20 18:25:02 079  ShellExecute ret=0x2a
+
+2016-9-20 18:25:02 095  DeleteShortcut end!!
+2016-9-20 18:25:02 095  DeleteProductFile begin!!
+2016-9-20 18:25:02 111  File C Not Exits
+2016-9-20 18:25:02 111  DeleteProductFile end!!
+2016-9-20 18:25:02 111  StopSvr begin!!
+2016-9-20 18:25:02 111  StopSvr = C:\Users\wanglu\AppData\Local\liebao\5.3.108.11299 
+
+2016-9-20 18:25:02 111  GetDebugPrivilege bRet=1,code=0
+
+2016-9-20 18:25:02 111  KillProcessByPath Begin
+
+2016-9-20 18:25:02 111  KillProcessByPath path:C:\Users\wanglu\AppData\Local\liebao\5.3.108.11299\knbcenter.exe
+2016-9-20 18:25:02 111  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2016-9-20 18:25:02 126  KillProcessByPath End
+
+2016-9-20 18:25:02 126  StopSvr dwcode=0
+2016-9-20 18:25:02 126  StopSvr end!!
+2016-9-20 18:25:03 062  ClearBDHDFolder begin!!
+2016-9-20 18:25:03 062  ClearBDHDFolder end!!
